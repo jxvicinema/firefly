@@ -111,7 +111,7 @@ img {
 
 .main-banner:before {
     content: '';
-    background-image: url("/firefly.jpg");
+    background-image: url("/fireflies\ img/firefly.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
